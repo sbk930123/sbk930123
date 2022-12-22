@@ -1,4 +1,4 @@
-### Hi there 👋
+### hey~ this is the "hello worlds" Moron :P 👋
 
 <!--
 **sbk930123/sbk930123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
