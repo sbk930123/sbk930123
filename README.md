@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/EXPRESS-000000?style=flat-square&logo=express&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"></a>&nbsp 
 </p>
 
 <br>
